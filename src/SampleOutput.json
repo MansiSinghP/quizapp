@@ -1,0 +1,101 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "correct_answer": "Objective-C",
+      "incorrect_answers": ["C#", "Ruby", "C++"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+      "correct_answer": "Binary",
+      "incorrect_answers": ["JavaScript", "C++", "Python"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the Prt Sc button do?",
+      "correct_answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+      "incorrect_answers": [
+        "Nothing",
+        "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+        "Closes all windows"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the domain name for the country Tuvalu?",
+      "correct_answer": ".tv",
+      "incorrect_answers": [".tu", ".tt", ".tl"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does LTS stand for in the software market?",
+      "correct_answer": "Long Term Support",
+      "incorrect_answers": [
+        "Long Taco Service",
+        "Ludicrous Transfer Speed",
+        "Ludicrous Turbo Speed"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many values can a single byte represent?",
+      "correct_answer": "256",
+      "incorrect_answers": ["8", "1", "1024"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The C programming language was created by this American computer scientist. ",
+      "correct_answer": "Dennis Ritchie",
+      "incorrect_answers": [
+        "Tim Berners Lee",
+        "al-Khw\u0101rizm\u012b",
+        "Willis Ware"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which programming language shares its name with an island in Indonesia?",
+      "correct_answer": "Java",
+      "incorrect_answers": ["Python", "C", "Jakarta"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In computing, what does LAN stand for?",
+      "correct_answer": "Local Area Network",
+      "incorrect_answers": [
+        "Long Antenna Node",
+        "Light Access Node",
+        "Land Address Navigation"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What language does Node.js use?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": ["Java", "Java Source", "Joomla Source Code"]
+    }
+  ]
+}
